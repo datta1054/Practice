@@ -1,0 +1,46 @@
+.card {
+  color: white;
+  border: 2px solid red;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  margin: 1rem auto;
+}
+
+.cardContainer {
+  text-align: center;
+  display: flex;
+  margin: 1rem auto;
+  flex-wrap: wrap;
+}
+
+.image {
+  border-radius: 1rem;
+  width: 20rem;
+  height: 13rem;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.price {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.rating {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.button {
+  background-color: #fff;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
